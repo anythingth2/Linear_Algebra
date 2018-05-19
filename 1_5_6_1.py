@@ -6,3 +6,8 @@ def laff_norm2(x):
     except:
         print('FAILED')
     return length
+
+
+def eiei(ei=None):
+    print('Hello')
+
